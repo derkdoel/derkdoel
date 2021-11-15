@@ -1,6 +1,6 @@
 # Hi, I’m Derk
 
-###### I'm an Artificial Intelligence master student at Utrecht University with a particular interest in Deep Learning and Evolutional Algorithms.
+###### I'm an Artificial Intelligence masters student at Utrecht University with a particular interest in Deep Learning and Evolutional Algorithms.
 
 <p>
   <a href="https://www.linkedin.com/in/derkdoel/" rel="nofollow noreferrer">
